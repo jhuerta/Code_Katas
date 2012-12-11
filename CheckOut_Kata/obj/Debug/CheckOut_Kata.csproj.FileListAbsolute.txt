@@ -1,6 +1,0 @@
-C:\Users\jhuerta\Desktop\Portable_Apps\MyDocs\CodeKatas\CheckOut_Kata\CheckOut_Kata\bin\Debug\CheckOut_Kata.exe
-C:\Users\jhuerta\Desktop\Portable_Apps\MyDocs\CodeKatas\CheckOut_Kata\CheckOut_Kata\bin\Debug\CheckOut_Kata.pdb
-C:\Users\jhuerta\Desktop\Portable_Apps\MyDocs\CodeKatas\CheckOut_Kata\CheckOut_Kata\bin\Debug\nunit.framework.dll
-C:\Users\jhuerta\Desktop\Portable_Apps\MyDocs\CodeKatas\CheckOut_Kata\CheckOut_Kata\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\jhuerta\Desktop\Portable_Apps\MyDocs\CodeKatas\CheckOut_Kata\CheckOut_Kata\obj\Debug\CheckOut_Kata.exe
-C:\Users\jhuerta\Desktop\Portable_Apps\MyDocs\CodeKatas\CheckOut_Kata\CheckOut_Kata\obj\Debug\CheckOut_Kata.pdb
